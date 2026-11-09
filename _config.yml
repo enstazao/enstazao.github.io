@@ -1,0 +1,13 @@
+title: "My Personal Website"
+description: "My personal website and technical blogs"
+
+url: "https://enstazao.github.io"
+baseurl: ""
+
+theme: minima
+
+author: "Jawad Ahmed"
+
+markdown: kramdown
+
+permalink: /blog/:title/
